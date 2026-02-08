@@ -2,7 +2,7 @@
 
 A lightweight Windows utility to temporarily disable your mouse scroll wheel. Useful for faulty mice that scroll randomly.
 
-![Size](https://img.shields.io/badge/size-128%20KB-blue) ![Platform](https://img.shields.io/badge/platform-Windows%207%2B-lightgrey) ![License](https://img.shields.io/badge/license-MIT-green)
+![Size](https://img.shields.io/badge/size-129%20KB-blue) ![Platform](https://img.shields.io/badge/platform-Windows%207%2B-lightgrey) ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Download
 
