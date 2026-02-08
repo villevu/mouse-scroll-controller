@@ -1,0 +1,53 @@
+# Windows/Visual Studio
+*.exe
+*.obj
+*.res
+*.pdb
+*.ilk
+*.suo
+*.user
+*.sln.docstates
+*.log
+*.tlog
+*.idb
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.manifest
+
+# Build directories
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+[Dd]ebug/
+[Rr]elease/
+
+# .NET
+*.dll
+*.deps.json
+*.runtimeconfig.json
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+
+# Keep the final executable for releases (optional - uncomment if needed)
+# !disableScrollWheel_native.exe
