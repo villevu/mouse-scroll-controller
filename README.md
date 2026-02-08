@@ -2,11 +2,11 @@
 
 A lightweight Windows utility to temporarily disable your mouse scroll wheel. Useful for faulty mice that scroll randomly.
 
-![Size](https://img.shields.io/badge/size-130%20KB-blue) ![Platform](https://img.shields.io/badge/platform-Windows%207%2B-lightgrey) ![License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/platform-Windows%207%2B-lightgrey) ![License](https://img.shields.io/badge/license-MIT-green) ![Size](https://img.shields.io/badge/size-lightweight-blue)
 
 ## Download
 
-**[Latest Release](../../releases/latest)** - Single 130 KB executable
+**[Latest Release](../../releases/latest)** - Standalone executable, no dependencies
 
 ## Features
 
@@ -25,11 +25,13 @@ A lightweight Windows utility to temporarily disable your mouse scroll wheel. Us
 - Windows SDK
 
 ### Build
-Open **Developer Command Prompt for VS 2022**:
+Simply run from any command prompt:
 ```cmd
 cd path/to/project
 build.bat
 ```
+
+The build script automatically detects and initializes the Visual Studio environment.
 
 ## Antivirus False Positives ⚠️
 

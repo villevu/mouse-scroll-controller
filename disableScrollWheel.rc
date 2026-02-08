@@ -4,7 +4,7 @@
 // Embed the manifest directly into the executable
 // 1 = CREATEPROCESS_MANIFEST_RESOURCE_ID
 // 24 = RT_MANIFEST
-1 24 "disableScrollWheel_native.exe.manifest"
+1 24 "disableScrollWheel.exe.manifest"
 
 IDI_MAINICON ICON "disableScrollWheel_icon.ico"
 

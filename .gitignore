@@ -14,7 +14,6 @@
 *.sdf
 *.VC.db
 *.VC.opendb
-*.manifest
 
 GITHUB_SETUP.md
 
@@ -27,6 +26,8 @@ x64/
 x86/
 [Dd]ebug/
 [Rr]elease/
+
+GITHUB_SETUP.md
 
 # .NET
 *.dll
