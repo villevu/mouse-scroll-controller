@@ -33,6 +33,16 @@ build.bat
 
 The build script automatically detects and initializes the Visual Studio environment.
 
+## Anticheat & Online Gaming Warning ⚠️
+
+**Important:** This utility uses a **Low-Level Mouse Hook** (`WH_MOUSE_LL`) to intercept input. Because this is the same method used by some macro scripts and cheat tools, it may interact poorly with modern anticheat systems (such as **Vanguard, EAC, or BattlEye**).
+
+* **Risk of Bans:** While the tool is not a "cheat," some aggressive anticheat engines may flag any third-party software that intercepts raw mouse input.
+* **Input Blocking:** The tool may be automatically ignored or disabled by Windows when a protected game window is active.
+* **Recommended Action:** It is highly recommended to **exit this tool before launching online multiplayer games** to avoid any potential account flags or game crashes.
+
+> **Use at your own risk in gaming environments.**
+
 ## Antivirus False Positives ⚠️
 
 **This tool is safe and open source.** Some antivirus programs might still flag it because it uses low-level mouse hooks (a Windows API that malware sometimes abuses).
