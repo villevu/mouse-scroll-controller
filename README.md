@@ -35,7 +35,7 @@ The build script automatically detects and initializes the Visual Studio environ
 
 ## Antivirus False Positives ⚠️
 
-**This tool is safe and open source.** Some antivirus programs flag it because it uses low-level mouse hooks (a Windows API that malware sometimes abuses).
+**This tool is safe and open source.** Some antivirus programs might still flag it because it uses low-level mouse hooks (a Windows API that malware sometimes abuses).
 
 **What you can do:**
 - ✅ Review the source code (it's only ~250 lines)
