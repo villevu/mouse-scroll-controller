@@ -16,6 +16,8 @@
 *.VC.opendb
 *.manifest
 
+GITHUB_SETUP.md
+
 # Build directories
 bin/
 obj/

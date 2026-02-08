@@ -2,11 +2,11 @@
 
 A lightweight Windows utility to temporarily disable your mouse scroll wheel. Useful for faulty mice that scroll randomly.
 
-![Size](https://img.shields.io/badge/size-128%20KB-blue) ![Platform](https://img.shields.io/badge/platform-Windows%207%2B-lightgrey) ![License](https://img.shields.io/badge/license-MIT-green)
+![Size](https://img.shields.io/badge/size-130%20KB-blue) ![Platform](https://img.shields.io/badge/platform-Windows%207%2B-lightgrey) ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Download
 
-**[Latest Release](../../releases/latest)** - Single 129 KB executable, zero dependencies
+**[Latest Release](../../releases/latest)** - Single 130 KB executable
 
 ## Features
 
@@ -14,7 +14,7 @@ A lightweight Windows utility to temporarily disable your mouse scroll wheel. Us
 - ⌨️ Global hotkey (Ctrl+Shift+S)
 - 🚀 Works on Windows 7, 8, 10, 11
 
-1. Download `disableScrollWheel_native.exe`
+1. Download `disableScrollWheel.exe`
 2. Run it
 3. Click "Disable Scrolling" or press **Ctrl+Shift+S**
 
